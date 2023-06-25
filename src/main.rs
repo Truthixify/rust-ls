@@ -1,7 +1,7 @@
 use std::env::args;
 use std::process;
 
-use ls::{Config, run};
+use rust_ls::{Config, run};
 
 fn main() {
     let args: Vec<String> = args().collect();
