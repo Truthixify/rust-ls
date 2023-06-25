@@ -1,5 +1,5 @@
 [package]
-name = "ls"
+name = "rust-ls"
 version = "0.1.0"
 edition = "2021"
 authors = ["Truthixify truthixify@gmail.com"]
