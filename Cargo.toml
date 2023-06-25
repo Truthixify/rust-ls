@@ -3,6 +3,7 @@ name = "ls"
 version = "0.1.0"
 edition = "2021"
 authors = ["Truthixify truthixify@gmail.com"]
+license = "MIT OR Apache-2.0"
 description = "A tool to list directory contents"
 readme = "README.md"
 homepage = "https://github.com/Truthixify/rust-ls"
