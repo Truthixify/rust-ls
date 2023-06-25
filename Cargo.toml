@@ -2,6 +2,13 @@
 name = "ls"
 version = "0.1.0"
 edition = "2021"
+authors = ["Truthixify truthixify@gmail.com"]
+description = "A tool to list directory contents"
+readme = "README.md"
+homepage = "https://github.com/Truthixify/rust-ls"
+repository = "https://github.com/Truthixify/rust-ls"
+keywords = ["cli", "directory", "linux"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
